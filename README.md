@@ -1,7 +1,12 @@
 # ***Lickerz***
 악기 리뷰 커뮤니티 서비스 Lickerz입니다.
-보안상 일부 코드와 파일이 제외되어있습니다.
+
+
 https://lickerz.duckdns.org
+
+
+보안상 일부 코드와 파일이 제외되어있습니다.
+
 
 ### 기술 스택
 ![ec2] ![docker] ![nginx] ![vue] ![s3] 
