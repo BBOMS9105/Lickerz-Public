@@ -1,4 +1,4 @@
-# Lickerz
+# ***Lickerz***
 악기 리뷰 커뮤니티 서비스 Lickerz입니다.
 
 https://lickerz.duckdns.org
